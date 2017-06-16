@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "cheerio": "^0.22.0",
+    "node-mysql": "^0.4.2",
+    "pg": "^6.2.4",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "superagent": "^3.5.2"
+  },
+  "scripts": {
+    "start": "node ./app.js"
+  }
+}
